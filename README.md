@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Sociologist | Data Analyst | Técnica de investigación</strong><br>
-  <em>Especializada en análisis e interpretación de datos sociales, igualdad y visualización con enfoque feminista</em>
+  <em>Especializada en análisis e interpretación de datos sociales, de opinión, analisis de género y visualización de datos </em>
 </p>
 
 <p align="center">
@@ -23,8 +23,7 @@
 
 ## 🧠 Sobre mí
 
-🎓 Socióloga con más de 4 años de experiencia en investigación aplicada, análisis de datos sociales y estudios de opinión pública.  
-🔍 Actualmente técnica de investigación en COCEMFE, aplicando Power BI, Python y metodologías mixtas para estudios de igualdad y discapacidad.  
+🎓 Socióloga con más de 4 años de experiencia en investigación aplicada, análisis de datos sociales y estudios de opinión pública.   
 📊 Experiencia previa en la Encuesta Social de Andalucía y Cámara Cívica como analista social de datos.  
 🎓 Formación técnica en análisis de datos por Andalab Bootcamp.  
 🧩 Apasionada por los datos como herramienta de cambio social, con enfoque ético, crítico y feminista.
@@ -69,17 +68,20 @@
 
 ## 🚀 ¿Buscas a alguien con mi perfil?
 
-Estoy interesada en oportunidades como **analista de datos sociales**, **técnica de investigación**, o **consultora en igualdad y estudios de opinión**, en:
+Estoy interesada en oportunidades como **analista de datos**, **técnica de investigación**, o **consultora en igualdad y estudios de opinión**, en:
 
+- Análisis de mercados
+- Hábitos de consumo
+- Estudios de impacto social o investigación aplicada, tanto en organizaciones sociales como en empresas privadas.
 - ONGs y fundaciones del tercer sector  
 - Universidades, think tanks y centros de estudios sociales  
 - Consultoras de políticas públicas y evaluación social  
 - Cooperativas de datos y tecnología social
-- Cualquier análisis me parece divertido
+-  
 
 📬 Escríbeme: **lmhernandezgarcia2@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/luz-marina-hern%C3%A1ndez-garc%C3%ADa-0b2514182/)
 
 ---
 
-> 💬 “Los datos no son neutros: los analizo desde un compromiso ético, feminista y transformador.”
+> 💬 “Tengo una mentalidad analítica orientada a resultados: sé buscar, limpiar, interpretar y transformar los datos en información clara, útil y con sentido estratégico, sea en lo social, lo público o lo empresarial.”

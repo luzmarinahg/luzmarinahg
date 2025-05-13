@@ -24,9 +24,9 @@
 ## 🧠 Sobre mí
 
 🎓 Socióloga con más de 4 años de experiencia en investigación aplicada, análisis de datos sociales y estudios de opinión pública.   
-📊 Experiencia previa en la Encuesta Social de Andalucía y Cámara Cívica como analista social de datos.  
+📊 Experiencia previa en la Encuesta Social de Andalucía, Cámara Cívica y COCEMFE como analista social de datos.  
 🎓 Formación técnica en análisis de datos por Andalab Bootcamp.  
-🧩 Apasionada por los datos como herramienta de cambio social, con enfoque ético, crítico y feminista.
+🧩 Apasionada por los datos como herramienta de cambio social, con enfoque ético, crítico y de igualdad de género.
 
 ---
 

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luzmarinahg/">
+  <a href="https://www.linkedin.com/in/luz-marina-hern%C3%A1ndez-garc%C3%ADa-0b2514182/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-luzmarinahg-blue?style=flat&logo=linkedin">
   </a>
   <a href="mailto:lmhernandezgarcia2@gmail.com">
